@@ -1,0 +1,21 @@
+{
+  "name": "06-enumeraciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "build:prod": "tsc -p tsconfig.prod.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

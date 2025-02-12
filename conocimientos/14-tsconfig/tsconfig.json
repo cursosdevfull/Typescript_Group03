@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "lib": ["DOM", "ES2020", "DOM.Iterable", "ScriptHost"],
+    "rootDir": "./src",
+    "baseUrl": "./",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "checkJs": true,
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules", "assets"],
+  "include": ["src/**/*.ts", "src/**/*.js"]
+}
