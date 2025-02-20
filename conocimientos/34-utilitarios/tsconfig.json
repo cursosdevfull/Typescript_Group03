@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "lib": ["DOM", "es2015", "DOM.Iterable", "ScriptHost"],
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "rootDir": "./src",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "declaration": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "checkJs": true
+  },
+  "exclude": ["node_modules", "assets"],
+  "include": ["src/**/*.ts", "src/**/*.js"]
+}
