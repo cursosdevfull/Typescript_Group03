@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.16">
+  <diagram name="1" id="8qpLrNhxKFRceHbqb7Dx">
+    <mxGraphModel dx="1620" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E3E3E3" math="0" shadow="1">
+      <root>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-0" />
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-1" parent="AMEuDbX9PQoigBGP6Jxk-0" />
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AMEuDbX9PQoigBGP6Jxk-1" source="AMEuDbX9PQoigBGP6Jxk-8" target="AMEuDbX9PQoigBGP6Jxk-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AMEuDbX9PQoigBGP6Jxk-1" source="AMEuDbX9PQoigBGP6Jxk-8" target="AMEuDbX9PQoigBGP6Jxk-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AMEuDbX9PQoigBGP6Jxk-1" source="AMEuDbX9PQoigBGP6Jxk-8" target="AMEuDbX9PQoigBGP6Jxk-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AMEuDbX9PQoigBGP6Jxk-1" source="AMEuDbX9PQoigBGP6Jxk-8" target="AMEuDbX9PQoigBGP6Jxk-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AMEuDbX9PQoigBGP6Jxk-1" source="AMEuDbX9PQoigBGP6Jxk-8" target="AMEuDbX9PQoigBGP6Jxk-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7f1QPpa0Y6fSibcU7Rc--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AMEuDbX9PQoigBGP6Jxk-1" source="AMEuDbX9PQoigBGP6Jxk-8" target="7f1QPpa0Y6fSibcU7Rc--0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-8" value="PATRONES ESTRUCTURALES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="584.26" y="190" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-9" value="Adapter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="50" y="380" width="238.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-10" value="Bridge" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="350" y="380" width="238.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-11" value="Composite" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="650" y="380" width="238.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-12" value="Permite conectar objetos con implementaciones diferentes a través de una abstracción" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="50" y="470" width="238.51" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-13" value="Permite dividir una clase grande en una abstracción y en una implementación" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="350" y="470" width="238.51" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-14" value="Permite manejar estructuras de tipo árbol" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="654.26" y="470" width="238.51" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-15" value="Decorator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="940" y="380" width="238.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-16" value="Permite agregar funcionalidad a un objeto existente" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="944.26" y="470" width="238.51" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-17" value="Facade" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="1241" y="380" width="238.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMEuDbX9PQoigBGP6Jxk-18" value="Permite tener una abstracción para acceder de forma simplificada a un conjunto de clases, de endpoints o de servicios" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="1245.26" y="470" width="238.51" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7f1QPpa0Y6fSibcU7Rc--0" value="Flyweight" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="1550" y="380" width="238.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7f1QPpa0Y6fSibcU7Rc--1" value="Permite optimizar el uso de recursos como memoria RAM, como procesador" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AMEuDbX9PQoigBGP6Jxk-1" vertex="1">
+          <mxGeometry x="1554.26" y="470" width="238.51" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
